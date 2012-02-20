@@ -17,6 +17,8 @@
 * Not really a sheep
 
 
+        If you don't understand something; don't be 
+               embarrassed, just shout out!
 
 
 
