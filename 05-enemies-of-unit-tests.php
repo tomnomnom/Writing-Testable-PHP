@@ -1,6 +1,7 @@
 # Enemies of unit tests
 
-* Global state
+* Global (or external) state
+* Laziness
 * That's (mostly) it.
 
 
