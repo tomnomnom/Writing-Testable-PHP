@@ -1,4 +1,4 @@
-# The obvious kind
+# The obvious places
 
   <?php
   class BlogPost {
