@@ -1,6 +1,6 @@
 # What is a unit test?
 
-My favourite!
+My favourite type of test!
 
 Tests one "unit" of code (E.g. a single class)
 

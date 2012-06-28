@@ -1,3 +1,6 @@
 # Slides from "Writing Testable PHP"
 
-Talk given at The Digital Barn (http://thedigitalbarn.co.uk/) on 2012-02-11.
+Talk given at:
+ * The Digital Barn (http://thedigitalbarn.co.uk) on 2012-02-11
+ * Leeds PHP (http://leedsphp.org) on 2012-02-20
+ * SkyBet (http://www.skybet.com) on 2012-06-28
